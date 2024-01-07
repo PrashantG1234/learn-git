@@ -8,4 +8,7 @@ function getSum(a,b){
 //calling the function
 let ans = getSum(3,4);
 document.write("Ans is "+ans);
+//creating a date object
+let date = new Date();
+
 
