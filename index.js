@@ -5,4 +5,7 @@ document.write("Hey There...!");
 function getSum(a,b){
   return a+b;
 }
+//calling the function
+let ans = getSum(3,4);
+document.write("Ans is "+ans);
 
