@@ -10,5 +10,5 @@ let ans = getSum(3,4);
 document.write("Ans is "+ans);
 //creating a date object
 let date = new Date();
-
+console.log(date.toLocaleString());
 
